@@ -1028,7 +1028,7 @@ section.apply-now {
   background-attachment: fixed;
   background-repeat: no-repeat;
   background-size: cover;
-  padding: 140px 0px;
+  padding: 230px 0px;
 }
 
 section.apply-now .item {
@@ -1114,11 +1114,11 @@ section.our-courses {
   background-size: cover;
   padding-top: 140px;
   padding-bottom: 130px;
-  border-radius: 15px 50px;
 }
 
 .our-courses .item .down-content {
   background-color: #ff9900;
+  border-radius: 15px 50px;
 }
 
 .our-courses .item .down-content h4 {
