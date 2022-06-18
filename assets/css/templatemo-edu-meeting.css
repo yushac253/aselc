@@ -1114,6 +1114,7 @@ section.our-courses {
   background-size: cover;
   padding-top: 140px;
   padding-bottom: 130px;
+  border-radius: 15px 50px;
 }
 
 .our-courses .item .down-content {
