@@ -1053,7 +1053,7 @@ section.apply-now .item p {
 .accordions {
   border-radius: 20px;
   padding: 40px;
-  background-color: #F4A460;
+  background-color: #FFFAF0;
   margin-left: 45px;
 }
 .accordions .accordion {
@@ -1117,7 +1117,7 @@ section.our-courses {
 }
 
 .our-courses .item .down-content {
-  background-color: #D3D3D3;
+  background-color: #0d0d0d;
 }
 
 .our-courses .item .down-content h4 {
