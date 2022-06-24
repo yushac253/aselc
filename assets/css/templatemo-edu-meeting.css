@@ -1117,13 +1117,13 @@ section.our-courses {
 }
 
 .our-courses .item .down-content {
-  background-color: #ff9900;
+  background-color: #282828;
 }
 
 .our-courses .item .down-content h4 {
   padding: 25px;
   font-size: 18px;
-  color: #1f272b;
+  color: #ffffff;
   text-align: center;
   border-bottom: 1px solid #eee;
 }
