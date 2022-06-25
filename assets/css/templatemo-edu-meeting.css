@@ -973,7 +973,7 @@ section.upcoming-meetings .categories .main-button-red a {
 }
 
 .meeting-item .down-content {
-  background-color: #fff;
+  background-color: #282828;
   padding: 30px;
   border-bottom-right-radius: 20px;
   border-bottom-left-radius: 20px;
@@ -990,19 +990,19 @@ section.upcoming-meetings .categories .main-button-red a {
   font-size: 13px;
   text-transform: uppercase;
   font-weight: 600;
-  color: #a12c2f;
+  color: #ffffff;
 }
 
 .meeting-item .down-content .date span {
   display: block;
-  color: #1f272b;
+  color: #ffffff;
   font-size: 22px;
   margin-top: 7px;
 }
 
 .meeting-item .down-content h4 {
   font-size: 18px;
-  color: #1f272b;
+  color: #ffffff;
   font-weight: 600;
   display: inline-block;
   margin-bottom: 15px;
