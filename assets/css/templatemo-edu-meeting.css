@@ -1116,6 +1116,9 @@ section.our-courses {
   padding-bottom: 130px;
 }
 
+.our-courses .item .png {
+  border-radius: 8px;
+}
 .our-courses .item .down-content {
   background-color: #282828;
 }
