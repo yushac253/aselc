@@ -1117,10 +1117,11 @@ section.our-courses {
 }
 
 .our-courses .item .png {
-  border-radius: 8px;
+  border-radius: 10px;
 }
 .our-courses .item .down-content {
   background-color: #282828;
+  border-radius: 10px;
 }
 
 .our-courses .item .down-content h4 {
