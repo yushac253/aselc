@@ -244,7 +244,7 @@ header
 }
 
 .background-header {
-  background-color: #fff!important;
+  background-color: #1e1e1e!important;
   height: 80px!important;
   position: fixed!important;
   top: 0!important;
@@ -254,12 +254,12 @@ header
 }
 
 .background-header .main-nav .nav li a {
-  color: #1e1e1e!important;
+  color: #ffffff!important;
 }
 
 .background-header .logo,
 .background-header .main-nav .nav li a {
-  color: #1e1e1e!important;
+  color: #ffffff!important;
 }
 
 .background-header .main-nav .nav li:hover a {
