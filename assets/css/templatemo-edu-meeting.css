@@ -609,6 +609,7 @@ header
   }
   .header-area .logo {
     margin-left: 30px;
+    margin-top: 15px;
   }
   .header-area .menu-trigger {
     display: block !important;
@@ -1021,11 +1022,10 @@ section.upcoming-meetings .categories .main-button-red a {
   font-weight: 600;
   display: inline-block;
   margin-bottom: 15px;
-  margin-left: 50px;
 }
 
 .meeting-item .down-content p {
-  margin-left: 80px;
+  margin-left: 50px;
   color: #ffffff;
   font-size: 16px;
 }
