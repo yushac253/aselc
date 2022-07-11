@@ -1021,12 +1021,13 @@ section.upcoming-meetings .categories .main-button-red a {
   font-weight: 600;
   display: inline-block;
   margin-bottom: 15px;
+  margin-left: 50px;
 }
 
 .meeting-item .down-content p {
-  margin-left: 50px;
+  margin-left: 85px;
   color: #ffffff;
-  font-size: 14px;
+  font-size: 16px;
 }
 
 
