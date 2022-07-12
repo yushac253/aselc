@@ -514,7 +514,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 --------------------------------*/
 .section-header h3 {
   font-size: 32px;
-  color: #111;
+  color: #ffffff;
   text-transform: uppercase;
   text-align: center;
   font-weight: 700;
@@ -547,7 +547,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 .section-header p {
   text-align: center;
   padding-bottom: 30px;
-  color: #333;
+  color: #ffffff;
 }
 
 /* Section with background
