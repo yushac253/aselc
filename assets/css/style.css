@@ -1038,6 +1038,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 --------------------------------*/
 #testimonials {
   padding: 60px 0;
+  background-color: #1e1e1e;
 }
 
 #testimonials .section-header {
