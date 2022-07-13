@@ -1115,7 +1115,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 /* Team Section
 --------------------------------*/
 #team {
-  background-image: url(../images/meetings-page-bg.jpg);
+  background-color: #1e1e1e;
   padding: 60px 0;
 }
 
@@ -1185,6 +1185,9 @@ body.mobile-nav-active #mobile-nav-toggle {
 #team .member .social i {
   font-size: 18px;
   margin: 0 2px;
+}
+.img {
+  border-radius: 10px;
 }
 
 /* Contact Section
