@@ -514,7 +514,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 --------------------------------*/
 .section-header h3 {
   font-size: 32px;
-  color: #ffffff;
+  color: #111;
   text-transform: uppercase;
   text-align: center;
   font-weight: 700;
@@ -547,7 +547,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 .section-header p {
   text-align: center;
   padding-bottom: 30px;
-  color: #ffffff;
+  color: #333;
 }
 
 /* Section with background
@@ -1038,7 +1038,6 @@ body.mobile-nav-active #mobile-nav-toggle {
 --------------------------------*/
 #testimonials {
   padding: 60px 0;
-  background-color: #1e1e1e;
 }
 
 #testimonials .section-header {
@@ -1116,7 +1115,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 /* Team Section
 --------------------------------*/
 #team {
-  background-color: #1e1e1e;
+  background-image: url(../images/meetings-page-bg.jpg);
   padding: 60px 0;
 }
 
@@ -1186,9 +1185,6 @@ body.mobile-nav-active #mobile-nav-toggle {
 #team .member .social i {
   font-size: 18px;
   margin: 0 2px;
-}
-.img {
-  border-radius: 10px;
 }
 
 /* Contact Section
