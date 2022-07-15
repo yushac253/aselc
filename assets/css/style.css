@@ -21,7 +21,7 @@ a {
 }
 
 a:hover, a:active, a:focus {
-  color: #FF4500;
+  color: #18d36e;
   outline: none;
   text-decoration: none;
 }
@@ -445,10 +445,10 @@ h1, h2, h3, h4, h5, h6 {
   transition: 0.5s;
   margin: 10px;
   color: #fff;
-  background: #FF8C00;
+  background: #8B0000;
 }
 #hero .btn-get-started:hover {
-  background: #D2691E;
+  background: #B22222;
   color: #;
 }
 
